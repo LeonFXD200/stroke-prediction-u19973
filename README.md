@@ -3,7 +3,7 @@
 This repository contains the code and analysis for the group practical assessment on the Kaggle Stroke Prediction Dataset.
 
 ## Group members
-- [Student Name]
+- Leon Dupree
 - Chester Speed
 
 ## Dataset
